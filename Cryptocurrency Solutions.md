@@ -511,4 +511,3 @@ ORDER BY region, year_start;
 #### Output:   
 ![05 sol-3](https://user-images.githubusercontent.com/120770473/235416000-b4643a61-4555-47a4-8286-05d6d69b6cf8.png)
   
-CLick [Here](https://github.com/AmitPatel-analyst/SQL-Case-Study/tree/main) to move back to other case studies repository! 
